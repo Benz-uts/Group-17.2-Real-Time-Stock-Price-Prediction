@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+xgboost
+tensorflow
+yfinance
+finnhub-python
+ta
+transformers
