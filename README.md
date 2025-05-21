@@ -35,18 +35,19 @@ streamlit run app.py
 
 ## Directory Structure
 
+```
 .
-├── app.py # Streamlit web app
-├── main.py # Script for model training & evaluation
-├── merged_data.csv # Combined dataset with indicators and sentiment
-├── requirements.txt # Python dependency list
-├── utils/
-│ ├── init.py
-│ ├── data_loader.py # Downloads stock + news data
-│ ├── features.py # Merges technical indicators with sentiment
-│ ├── models.py # Model training and prediction functions
-│ └── sentiment.py # FinBERT-based sentiment scoring
-
+├── app.py                # Streamlit web app  
+├── main.py               # Script for model training & evaluation  
+├── merged_data.csv       # Combined dataset with indicators and sentiment  
+├── requirements.txt      # Python dependency list  
+├── utils/  
+│   ├── __init__.py  
+│   ├── data_loader.py    # Downloads stock + news data  
+│   ├── features.py       # Merges technical indicators with sentiment  
+│   ├── models.py         # Model training and prediction functions  
+│   └── sentiment.py      # FinBERT-based sentiment scoring  
+```
 ---
 
 ## Models Implemented
