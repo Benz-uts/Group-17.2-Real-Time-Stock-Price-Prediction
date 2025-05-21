@@ -1,4 +1,4 @@
-# Real-Time Stock Price Prediction Using Machine Learning and Sentiment Analysis
+# Real-Time Stock Price Prediction Using Machine Learning
 
 This repository contains the source code and documentation for a course project titled **"Real-Time Stock Price Prediction"**. The project aims to predict short-term stock prices using a combination of machine learning models, deep learning, technical indicators, and sentiment analysis derived from financial news.
 
