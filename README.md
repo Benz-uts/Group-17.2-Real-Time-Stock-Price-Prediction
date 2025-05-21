@@ -33,7 +33,7 @@ streamlit run app.py
 
 ---
 
-## 🗂️ Directory Structure
+## Directory Structure
 
 .
 ├── app.py # Streamlit web app
@@ -50,14 +50,11 @@ streamlit run app.py
 ---
 
 ## Models Implemented
-
-| Model         | 
-|---------------|
-| **Random Forest**  | 
-| **XGBoost**        |
-| **Tuned XGBoost**  |
-| **LSTM**           | 
-| **Ensemble**       | 
+**Random Forest** 
+**XGBoost**
+**Tuned XGBoost**
+**LSTM**           
+**Ensemble**       
 
 ---
 
