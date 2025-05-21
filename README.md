@@ -51,11 +51,11 @@ streamlit run app.py
 ---
 
 ## Models Implemented
-**Random Forest** 
-**XGBoost**
-**Tuned XGBoost**
-**LSTM**           
-**Ensemble**       
+| **Random Forest** | 
+| **XGBoost** |
+| **Tuned XGBoost** |
+| **LSTM** |           
+| **Ensemble** |       
 
 ---
 
